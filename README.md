@@ -18,7 +18,7 @@ Este proyecto se centra en el análisis detallado de los servicios de telecomuni
 
 El Dashboard ha sido desplegado utilizando Streamlit Cloud. Puedes acceder en el siguiente enlace:
 
-https://mlops-movies-leonardorenteria.onrender.com/docs
+https://pi2-dataanalysis-internet.streamlit.app/
 
 ## Descripción del Dashboard
 
