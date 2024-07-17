@@ -9,7 +9,7 @@ st.set_page_config(page_title='Dashboard de Acceso a Internet en Argentina', lay
 # Función para cargar datos
 @st.cache_data
 def cargar_datos():
-    file_path = './Datasets/Internet.xlsx'
+    file_path = 'Datasets/Internet.xlsx'
     xls = pd.ExcelFile(file_path)
     
     dataframes = {
